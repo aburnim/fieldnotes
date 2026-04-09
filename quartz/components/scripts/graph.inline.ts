@@ -193,16 +193,31 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
     {} as Record<(typeof cssVars)[number], string>,
   )
 
+  // category color map
+  const categoryColors: Record<string, string> = {
+    person: "#d4782f",
+    institution: "#2b5ea7",
+    tool: "#5ca8c8",
+  }
+
   // calculate color
   const color = (d: NodeData) => {
     const isCurrent = d.id === slug
     if (isCurrent) {
       return computedStyleMap["--secondary"]
-    } else if (visited.has(d.id) || d.id.startsWith("tags/")) {
-      return computedStyleMap["--tertiary"]
-    } else {
-      return computedStyleMap["--gray"]
     }
+
+    // color by category tag
+    for (const tag of d.tags) {
+      if (categoryColors[tag]) {
+        return categoryColors[tag]
+      }
+    }
+
+    if (visited.has(d.id) || d.id.startsWith("tags/")) {
+      return computedStyleMap["--tertiary"]
+    }
+    return computedStyleMap["--gray"]
   }
 
   function nodeRadius(d: NodeData) {

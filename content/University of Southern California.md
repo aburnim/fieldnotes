@@ -1,0 +1,5 @@
+---
+aliases:
+  - USC
+tags: [institution]
+---
