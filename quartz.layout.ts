@@ -5,7 +5,24 @@ import * as Component from "./quartz/components"
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
-  afterBody: [],
+  afterBody: [
+    Component.ConditionalRender({
+      component: Component.Graph({
+        localGraph: {
+          depth: -1,
+          fontSize: 0.7,
+          opacityScale: 2,
+          repelForce: 0.5,
+          centerForce: 0.2,
+          linkDistance: 30,
+          focusOnHover: true,
+          enableRadial: true,
+          showTags: false,
+        },
+      }),
+      condition: (page) => page.fileData.slug === "index",
+    }),
+  ],
   footer: Component.Footer({
     links: {
       "Andy Burnim": "https://github.com/aburnim",

@@ -1,3 +1,16 @@
 @use "./base.scss";
 
-// put your custom CSS here!
+// Index page: large centered graph
+body[data-slug="index"] {
+  // hide the sidebar graph on the home page
+  .right.sidebar .graph {
+    display: none;
+  }
+
+  // full-width graph in afterBody
+  .page-footer .graph-outer {
+    height: 70vh;
+    max-height: 700px;
+    border: none;
+  }
+}
