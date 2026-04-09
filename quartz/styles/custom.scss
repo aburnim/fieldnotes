@@ -8,9 +8,14 @@ body[data-slug="index"] {
   }
 
   // full-width graph in afterBody
-  .page-footer .graph-outer {
-    height: 70vh;
-    max-height: 700px;
-    border: none;
+  .page-footer .graph > .graph-outer {
+    height: 100vh !important;
+    max-height: none !important;
+    border: 1px solid var(--lightgray);
+    border-radius: 8px;
+
+    > .graph-container {
+      height: 100% !important;
+    }
   }
 }
