@@ -9,7 +9,7 @@ seems outdated (makes sense, field blew up), meeting was in 2010 and paper publi
 
 [[Richard Henderson]] - MRC Laboratory of Molecular Biology, Cambridge, UK
 [[Dr. Andrej Sali|Andrej Sali]] - California Institute for Quantitative Biosciences, UCSF, San Francisco, CA, USA
-[[Matthew Baker]] - National Center for Macromolecular Imaging, Baylor College of Medicine, Houston, TX, USA
+[[Matt Baker]] - National Center for Macromolecular Imaging, Baylor College of Medicine, Houston, TX, USA (now at UTHealth Houston)
 [[Bridget Carragher]]- National Resource for Automated Molecular Microscopy, Scripps Research Institute, La Jolla, CA, USA
 [[Batsal Devkota]] - Research Collaboratory for Structural Bioinformatics, Rutgers, Piscataway, NJ, USA
 [[Kenneth Downing]] - Life Sciences Division, Lawrence Berkeley National Laboratory, Berkeley, CA, USA

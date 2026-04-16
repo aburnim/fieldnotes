@@ -19,7 +19,7 @@ tags: [tool]
 | [[Gwyndaf Evans]] | Lead (Diamond) | [[Diamond Light Source]] |
 | [[David Waterman]] | Lead developer (refinement) | STFC / [[CCP4]] |
 | [[James Parkhurst]] | Developer | Diamond Light Source |
-| [[Nick Sauter]] | Key collaborator (LBNL) | Lawrence Berkeley National Laboratory |
+| [[Nicholas Sauter]] | Key collaborator (LBNL); XFEL / serial crystallography lead | [[Lawrence Berkeley National Laboratory]] |
 | [[Garib Murshudov]] | Collaborator (MRC-LMB) | [[MRC-LMB]] |
 
 > [!faq] Aaron Brewster overlap
