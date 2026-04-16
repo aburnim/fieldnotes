@@ -21,7 +21,7 @@ tags: [institution]
 
 | Name | Role | Affiliation |
 |------|------|-------------|
-| [[Kyle Morriss]] | Team Leader, EMDB; wwPDB PI | [[EMBL-EBI]] |
+| [[Kyle Morris]] | Team Leader, EMDB; wwPDB PI | [[EMBL-EBI]] |
 | [[Ardan Patwardhan]] | Former lead / correspondence author | EMBL-EBI |
 | [[Kim Henrick]] | Founder (2002) | EMBL-EBI (historical) |
 
@@ -35,7 +35,7 @@ tags: [institution]
 - EU Framework 7 Programme (284209, historical)
 
 ## Governance
-- [[Kyle Morriss]] is a wwPDB Principal Investigator
+- [[Kyle Morris]] is a wwPDB Principal Investigator
 - [[Sjors Scheres]] and [[Giulia Zanetti]] represent EMDB on the [[wwPDB]] Advisory Committee
 - EMDB validation tools feed into [[wwPDB]] OneDep pipeline
 - [[wwPDB task force-EM Validation]] oversees validation standards

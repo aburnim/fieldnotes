@@ -15,7 +15,7 @@ tags: [institution]
 - [[Aaron Brewster]] leads [[DIALS]] at LBNL AND chairs [[NIAC]]
 - Berkeley Center for Structural Biology beamlines
 - ALS-U upgrade underway for improved performance
-- [[Nick Sauter]] ([[DIALS]] collaborator) at LBNL
+- [[Nicholas Sauter]] ([[DIALS]] collaborator; XFEL / serial crystallography) at LBNL
 - Data collected here feeds into [[PHENIX]], [[DIALS]], [[CCP4]] processing
 
 ## Funding

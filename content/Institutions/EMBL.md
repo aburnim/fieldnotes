@@ -37,7 +37,7 @@ tags: [institution]
 | Name | Role | EMBL Site |
 |------|------|-----------|
 | [[Sameer Velankar]] | PDBe Team Leader | EMBL-EBI |
-| [[Kyle Morriss]] | EMDB Team Leader | EMBL-EBI |
+| [[Kyle Morris]] | EMDB Team Leader | EMBL-EBI |
 | [[Ewan Birney]] | EMBL-EBI Director | EMBL-EBI |
 | [[Dmitri Svergun]] | SAXS group head | EMBL Hamburg |
 | [[Tim Hubbard]] | ELIXIR Director | EMBL-EBI |

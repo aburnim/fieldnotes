@@ -16,7 +16,7 @@ tags: [person]
 > Jaime Fraser is a DiffUSE PI lead. His lab collects data at [[ALS]] Beamline 8.3.1 (directed by [[James Holton]]). The Fraser Lab is the origin of qFit (multi-conformer modeling software that forms the backend of Sampleworks) and has deep expertise in protein conformational dynamics -- the core scientific question DiffUSE aims to address.
 
 
-## DiffUSE Team Members from Fraser Lab / UCSF / Radial
+## DiffUSE Team Members 
 
 | Name | Role | Affiliation |
 |------|------|-------------|
@@ -27,11 +27,6 @@ tags: [person]
 | [[Marcus Collins]] | Senior Machine Learning Scientist | Radial |
 | [[Doris Mai]] | Scientist | Radial |
 | [[Andy Burnim]] | Project Manager | Radial |
-
-## Other DiffUSE Team Members (non-Fraser Lab)
-
-| Name | Role | Affiliation |
-|------|------|-------------|
 | [[Nozomi Ando]] | PI Lead (Data Collection at CHESS) | Cornell |
 | [[Steve Meisburger]] | Staff Scientist | [[CHESS]] |
 | [[Michael Wall]] | PI (MD Simulations) | [[Los Alamos National Laboratory]] |
@@ -39,7 +34,7 @@ tags: [person]
 | [[Kara Zielinski]] | Sample comparison analysis | DiffUSE team |
 
 > [!info] Source
-> Team roster from diffuse.science/members, supplemented by Slack channel and past conversations.
+> Team roster from diffuse.science/members
 
 
 ## Key UCSF Associates (in landscape context)
@@ -88,4 +83,3 @@ tags: [person]
 #encoding 
 #sampleprep 
 
-Scientific Lead (temp)

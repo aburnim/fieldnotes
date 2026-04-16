@@ -1,59 +1,49 @@
 ---
+aliases:
+  - X-Ray Validation Task Force
+  - XVTF
 tags: [institution]
 ---
 
-https://www.cell.com/structure/fulltext/S0969-2126(11)00285-1
+#wwpdb #mx #validation
 
+> [!info] Info
+> The wwPDB X-Ray Validation Task Force (XVTF) was convened by the [[wwPDB]] to recommend a new generation of crystallographic validation criteria for the PDB archive. Its landmark report - Read et al., "A new generation of crystallographic validation tools for the Protein Data Bank," *Structure* 19(10):1395-1412 (2011) - defined the validation metrics now embedded in wwPDB validation reports, [[PHENIX]], [[CCP4]], [[MolProbity]], and [[Coot]]. The workshop was supported financially and logistically by [[RCSB PDB]] (NSF DBI 0829586) and [[EMBL-EBI]].
 
-[[Randy Read]]
-[[Paul Adams]]
-[[W. Bryan Arendall, III]]
-[[Axel T. Brunger]]
-[[Paul Emsley]]
-[[Robbie P. Joosten]]
-[[Gerard Kleywegt]] J. Kleywegt
-[[Eugene B. Krissinel]]
-[[Thomas Lütteke]]
-[[Zbyszek Otwinowski]]
-Anastassis [[Anasstasis Perrakis]]
-[[Jane S. Richardson]]
-[[William H. Sheffler]]
-[[Janet L. Smith]] L. Smith
-[[Ian J. Tickle]]
-[[Gert Vriend]]
-[[Peter H. Zwart]]
+## Membership (2011 Structure paper)
 
-Affiliations & Notes
-1
-CIMR, University of Cambridge, Cambridge CB2 0XY, UK
-2
-Lawrence Berkeley Laboratory, Berkeley, CA 94720-8235, USA
-3
-Department of Biochemistry, Duke University, Durham, NC 27710, USA
-4
-Howard Hughes Medical Institute and Departments of Molecular and Cellular Physiology, Neurology and Neurological Sciences, Structural Biology, and Photon Science, Stanford University, James H. Clark Center, Stanford, CA 94305-5432, USA
-5
-Department of Biochemistry, University of Oxford, Oxford OX1 3QU, UK
-6
-CMBI, NCLMS, Radboud University Nijmegen Medical Centre, 6525 GA Nijmegen, The Netherlands
-7
-Department of Biochemistry, NKI, 1066 CX Amsterdam, The Netherlands
-8
-Department of Cell and Molecular Biology, Uppsala University, Biomedical Centre, SE-751 24 Uppsala, Sweden
-9
-European Bioinformatics Institute, Hinxton, Cambridge CB10 1SD, UK
-10
-STFC Rutherford Appleton Laboratory, Chilton, Didcot OX11 0QX, UK
-11
-Justus-Liebig University Gießen, Institute of Veterinary Physiology and Biochemistry, 35392 Gießen, Germany
-12
-UT Southwestern Medical Center, Dallas, TX 75390-8816, USA
-13
-Department of Biochemistry, University of Washington, Seattle, WA 98195, USA
-14
-Life Sciences Institute, Department of Biological Chemistry, University of Michigan, Ann Arbor, MI 48109, USA
-15
-Astex Therapeutics, Cambridge CB4 0QA, UK
+| Member | Affiliation (2011) | Role / Known for |
+|--------|---------|----------------|
+| [[Randy Read]] | CIMR, [[University of Cambridge]] | [[Phaser]] molecular replacement |
+| [[Paul Adams]] | [[Lawrence Berkeley National Laboratory]] | [[PHENIX]] consortium lead |
+| [[W. Bryan Arendall, III]] | [[Duke University]] Biochemistry | [[MolProbity]] |
+| [[Axel T. Brunger]] | [[Stanford University]] / HHMI | XPLOR / CNS lineage |
+| [[Paul Emsley]] | [[University of Oxford]] Biochemistry | [[Coot]] |
+| [[Robbie P. Joosten]] | CMBI, Radboud Nijmegen | [[PDB-REDO]] |
+| [[Anastassis Perrakis]] | [[Netherlands Cancer Institute]] | ARP/wARP, [[PDB-REDO]] |
+| [[Gerard Kleywegt]] | [[Uppsala University]] (until 31 May 2009) | Uppsala Software Factory; later [[PDBe (UK, EMBL-EBI)]] |
+| [[Eugene B. Krissinel]] | [[CCP4]] / [[Rutherford Appleton Laboratory]] | CCP4 project leader |
+| [[Thomas Lütteke]] | Justus-Liebig University Giessen | pdb-care glycan validation |
+| [[Zbyszek Otwinowski]] | UT Southwestern Medical Center | HKL / DENZO / SCALEPACK |
+| [[Jane S. Richardson]] | [[Duke University]] Biochemistry | [[MolProbity]], ribbon diagrams |
+| [[William H. Sheffler]] | [[University of Washington]] / Baker Lab | RosettaHoles |
+| [[Janet L. Smith]] | [[University of Michigan]] LSI | LS-CAT at [[APS]] |
+| [[Ian J. Tickle]] | Astex Therapeutics | BUSTER-TNT; fragment-based drug discovery |
+| [[Gert Vriend]] | CMBI, Radboud Nijmegen | WHAT_CHECK / WHAT IF |
+| [[Peter H. Zwart]] | [[Lawrence Berkeley National Laboratory]] | [[PHENIX]] / cctbx / SAXS |
 
+## Funding acknowledged
+- NIH P01 GM063210 (to [[Paul Adams|P.D.A.]], [[Randy Read|R.J.R.]], [[Jane S. Richardson|J.S.R.]])
+- NIH R01-DK42303 and R01-GM81544 (to [[Janet L. Smith|J.L.S.]])
+- NIH R01-GM073919 and R01-GM073930 (to [[W. Bryan Arendall, III|W.B.A.]] and [[Jane S. Richardson|J.S.R.]])
+- [[HHMI|Howard Hughes Medical Institute]] (to [[Axel T. Brunger|A.T.B.]])
+- [[Wellcome Trust]] grant 082961 (to [[Randy Read|R.J.R.]])
+- Netherlands Organization for Scientific Research (NWO) via NCF supercomputer facilities (to [[Robbie P. Joosten|R.P.J.]] and [[Gert Vriend|G.V.]])
+- NBIC BioRange / BSIK Netherlands Genomics Initiative (to [[Robbie P. Joosten|R.P.J.]] and [[Thomas Lütteke|T.L.]])
+- EU FP6 EMBRACE Grid LUNG-CT-2004-512092 (to [[Gert Vriend|G.V.]])
+- [[BBSRC]] via [[CCP4]] (to [[Eugene B. Krissinel|E.K.]])
+- [[EMBL]] (to [[Eugene B. Krissinel|E.K.]])
+- Uppsala University, Royal Swedish Academy of Sciences (K.V.A.), Swedish Research Council (V.R.) (to [[Gerard Kleywegt|G.J.K.]] until May 2009)
 
-We thank the Worldwide PDB partners for their support of the work of the X-ray Validation Task Force. The Research Collaboratory for Structural Bioinformatics (RCSB) PDB (NSF DBI 0829586) and the European Bioinformatics Institute (EBI) provided generous financial and logistic support for the workshop that laid the foundations for this report. Our research is supported by the NIH (1P01 GM063210 to P.D.A., R.J.R., and J.S.R.; R01-DK42303 and R01-GM81544 to J.L.S.; R01-GM073919 and R01-GM073930 for W.B.A. and J.S.R.), the Howard Hughes Medical Institute (to A.T.B.), the Wellcome Trust (grant no. 082961 to R.J.R.), National Computing Facilities Foundation, NCF for the use of supercomputer facilities, with financial support from the Netherlands Organization for Scientific Research, NWO (to R.P.J. and G.V.), the BioRange programme of NBIC, which is supported by a BSIK grant through the Netherlands Genomics Initiative (to R.P.J. and T.L.), the EU project EMBRACE Grid which is funded by the European Commission within its FP6 Programme, under the thematic area “Life sciences, genomics and biotechnology for health,” contract number LUNG-CT-2004-512092 (to G.V.), CCP4, which is funded by BBSRC (E.K.) and EMBL (E.K.). G.J.K., while a member of the VTF (until 31 May, 2009), was supported by Uppsala University, the Royal Swedish Academy of Sciences (K.V.A.), and the Swedish Research Council (V.R.).
+## Primary source
+- Read et al., "A new generation of crystallographic validation tools for the Protein Data Bank," *Structure* 19(10):1395-1412 (2011): https://www.cell.com/structure/fulltext/S0969-2126(11)00285-1

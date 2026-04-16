@@ -15,7 +15,7 @@ PDBe is owned and housed by [[EMBL-EBI]], is "core data resource" part of [[ELIX
 ## Scientific Advisory Board of [[PDBe (UK, EMBL-EBI)]]
 [[Sameer Velankar]] (EMBL-EBI)
 [[Matthias Rarey]] (Hamburg)
-[[Kyle Morriss]] (EMBL-EBI)
+[[Kyle Morris]] (EMBL-EBI)
 [[Anastassis Perrakis]] (Amsterdam)
 [[Guilia Zanetti]] (London)
 [[Martin Walsh]](Oxford)
